@@ -1,0 +1,286 @@
+Transaction_ID,Customer_ID,Age,Gender,Item_Category,Items_Purchased,Purchase_Amount,Payment_Method,Review_Rating,Days_Since_Last_Purchase,Frequency_Annual,Discount_Applied,Is_Churned
+TXN-50001,CUST-1001,25,Male,Apparel,"Denim Jeans;Hoodie Fleece",38,PayPal,5,3,3,false,false
+TXN-50002,CUST-1002,32,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",51,Debit Card,4,6,5,false,false
+TXN-50003,CUST-1003,39,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",64,Apple Pay,3,9,7,true,false
+TXN-50004,CUST-1004,46,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",77,Cash on Delivery,5,12,9,false,false
+TXN-50005,CUST-1005,,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",90,Credit Card,4,15,11,false,false
+TXN-50006,CUST-1006,60,Male,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",103,PayPal,3,18,13,true,false
+TXN-50007,CUST-1007,67,Female,Apparel,"Cotton T-Shirt;Denim Jeans",611,Debit Card,5,12,15,false,false
+TXN-50008,CUST-1008,22,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",129,Apple Pay,4,24,2,false,false
+TXN-50009,CUST-1009,29,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",142,Cash on Delivery,3,27,4,true,false
+TXN-50010,CUST-1010,36,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",155,Credit Card,5,30,6,false,false
+TXN-50011,CUST-1011,43,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",168,PayPal,2,131,2,false,true
+TXN-50012,CUST-1012,N/A,Female,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",181,Debit Card,3,36,10,true,false
+TXN-50013,CUST-1013,57,Male,Apparel,"Silk Scarf;Cotton T-Shirt",194,Apple Pay,5,39,12,false,false
+TXN-50014,CUST-1014,64,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",772,Cash on Delivery,5,19,10,false,false
+TXN-50015,CUST-1015,19,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",220,Credit Card,3,45,1,true,false
+TXN-50016,CUST-1016,26,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",233,PayPal,5,48,3,false,false
+TXN-50017,CUST-1017,33,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",246,Debit Card,4,51,5,false,false
+TXN-50018,CUST-1018,40,Male,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",259,Apple Pay,3,54,7,true,false
+TXN-50019,CUST-1019,47,Other,Apparel,"Leather Belt;Silk Scarf",272,Cash on Delivery,5,57,9,false,false
+TXN-50020,CUST-1020,54,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",,Credit Card,4,60,11,false,false
+TXN-50021,CUST-1021,61,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",933,PayPal,5,26,17,true,false
+TXN-50022,CUST-1022,68,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",311,Debit Card,2,142,1,false,true
+TXN-50023,CUST-1023,23,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",324,Apple Pay,4,69,2,false,false
+TXN-50024,CUST-1024,30,Other,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",337,Cash on Delivery,3,72,4,true,false
+TXN-50025,CUST-1025,37,Female,Apparel,"Winter Jacket;Leather Belt",350,Credit Card,5,75,6,false,false
+TXN-50026,CUST-1026,44,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",363,PayPal,4,78,8,false,false
+TXN-50027,CUST-1027,51,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",376,Debit Card,3,81,10,true,false
+TXN-50028,CUST-1028,58,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",544,Apple Pay,5,8,12,false,false
+TXN-50029,CUST-1029,65,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",402,Cash on Delivery,4,87,14,false,false
+TXN-50030,CUST-1030,20,Female,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",415,Credit Card,3,90,1,true,false
+TXN-50031,CUST-1031,27,Male,Apparel,"Sneakers;Winter Jacket",428,PayPal,5,93,3,false,false
+TXN-50032,CUST-1032,34,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",441,Debit Card,4,96,5,false,false
+TXN-50033,CUST-1033,41,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",454,Apple Pay,2,153,2,true,true
+TXN-50034,CUST-1034,48,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",467,Cash on Delivery,5,102,9,false,false
+TXN-50035,CUST-1035,55,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",-150,Credit Card,5,15,19,false,false
+TXN-50036,CUST-1036,62,Male,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",43,PayPal,3,108,13,true,false
+TXN-50037,CUST-1037,69,Female,Apparel,"Hoodie Fleece;Sneakers",56,Debit Card,5,111,15,false,false
+TXN-50038,CUST-1038,24,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",69,Apple Pay,4,114,2,false,true
+TXN-50039,CUST-1039,31,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",82,Cash on Delivery,3,117,4,true,false
+TXN-50040,CUST-1040,38,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",95,Credit Card,5,120,6,false,false
+TXN-50041,CUST-1041,45,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",108,PayPal,4,123,8,false,false
+TXN-50042,CUST-1042,52,Female,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",866,Debit Card,5,22,14,true,false
+TXN-50043,CUST-1043,59,Male,Apparel,"Denim Jeans;Hoodie Fleece",134,Apple Pay,5,129,12,false,false
+TXN-50044,CUST-1044,66,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",147,Cash on Delivery,2,164,1,false,true
+TXN-50045,CUST-1045,21,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",160,Credit Card,,135,1,true,true
+TXN-50046,CUST-1046,28,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",173,PayPal,5,138,3,false,false
+TXN-50047,CUST-1047,35,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",186,Debit Card,4,141,5,false,false
+TXN-50048,CUST-1048,42,Male,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",199,Apple Pay,3,144,7,true,false
+TXN-50049,CUST-1049,49,Other,Apparel,"Cotton T-Shirt;Denim Jeans",477,Cash on Delivery,5,29,9,false,false
+TXN-50050,CUST-1050,56,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",225,Credit Card,4,150,11,false,false
+TXN-50051,CUST-1051,63,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",238,PayPal,3,153,13,true,false
+TXN-50052,CUST-1052,18,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",251,Debit Card,5,156,15,false,false
+TXN-50053,CUST-1053,25,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",264,Apple Pay,4,159,2,false,true
+TXN-50054,CUST-1054,32,Other,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",277,Cash on Delivery,3,162,4,true,false
+TXN-50055,CUST-1055,39,Female,Apparel,"Silk Scarf;Cotton T-Shirt",290,Credit Card,2,175,2,false,true
+TXN-50056,CUST-1056,46,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",638,PayPal,5,11,16,false,false
+TXN-50057,CUST-1057,53,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",316,Debit Card,3,171,10,true,false
+TXN-50058,CUST-1058,60,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",329,Apple Pay,5,174,12,false,false
+TXN-50059,CUST-1059,67,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",342,Cash on Delivery,4,177,14,false,false
+TXN-50060,CUST-1060,22,Female,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",355,Credit Card,-1,0,1,true,false
+TXN-50061,CUST-1061,29,Male,Apparel,"Leather Belt;Silk Scarf",368,PayPal,5,3,3,false,false
+TXN-50062,CUST-1062,36,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",381,Debit Card,4,6,5,false,false
+TXN-50063,CUST-1063,43,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",799,Apple Pay,5,18,11,true,false
+TXN-50064,CUST-1064,50,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",407,Cash on Delivery,5,12,9,false,false
+TXN-50065,CUST-1065,57,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",420,Credit Card,4,15,11,false,false
+TXN-50066,CUST-1066,64,Male,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",433,PayPal,2,126,1,true,true
+TXN-50067,CUST-1067,19,Female,Apparel,"Winter Jacket;Leather Belt",446,Debit Card,5,21,15,false,false
+TXN-50068,CUST-1068,26,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",459,Apple Pay,4,24,2,false,false
+TXN-50069,CUST-1069,33,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",472,Cash on Delivery,3,27,4,true,false
+TXN-50070,CUST-1070,40,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",960,Credit Card,5,25,18,false,false
+TXN-50071,CUST-1071,47,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",48,PayPal,4,33,8,false,false
+TXN-50072,CUST-1072,54,Female,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",61,Debit Card,3,36,10,true,false
+TXN-50073,CUST-1073,61,Male,Apparel,"Sneakers;Winter Jacket",74,Apple Pay,5,39,12,false,false
+TXN-50074,CUST-1074,68,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",87,Cash on Delivery,4,42,14,false,false
+TXN-50075,CUST-1075,23,Female,,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",100,Credit Card,3,45,1,true,false
+TXN-50076,CUST-1076,30,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",113,PayPal,5,48,3,false,false
+TXN-50077,CUST-1077,37,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",571,Debit Card,2,137,2,false,true
+TXN-50078,CUST-1078,44,Male,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",139,Apple Pay,3,54,7,true,false
+TXN-50079,CUST-1079,51,Other,Apparel,"Hoodie Fleece;Sneakers",152,Cash on Delivery,5,57,9,false,false
+TXN-50080,CUST-1080,58,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",165,Credit Card,4,60,11,false,false
+TXN-50081,CUST-1081,65,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",178,PayPal,3,63,13,true,false
+TXN-50082,CUST-1082,20,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",191,Debit Card,5,66,15,false,false
+TXN-50083,CUST-1083,27,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",204,Apple Pay,4,69,2,false,false
+TXN-50084,CUST-1084,34,Other,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",732,Cash on Delivery,5,14,8,true,false
+TXN-50085,CUST-1085,41,Female,UNKNOWN_CAT,"Denim Jeans;Hoodie Fleece",230,Credit Card,5,75,6,false,false
+TXN-50086,CUST-1086,48,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",243,PayPal,4,78,8,false,false
+TXN-50087,CUST-1087,55,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",256,Debit Card,3,81,10,true,false
+TXN-50088,CUST-1088,62,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",269,Apple Pay,2,148,1,false,true
+TXN-50089,CUST-1089,69,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",282,Cash on Delivery,4,87,14,false,false
+TXN-50090,CUST-1090,24,Female,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",295,Credit Card,3,90,1,true,false
+TXN-50091,CUST-1091,31,Male,Apparel,"Cotton T-Shirt;Denim Jeans",893,PayPal,5,21,15,false,false
+TXN-50092,CUST-1092,38,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",321,Debit Card,4,96,5,false,false
+TXN-50093,CUST-1093,45,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",334,Apple Pay,3,99,7,true,false
+TXN-50094,CUST-1094,52,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",347,Cash on Delivery,5,102,9,false,false
+TXN-50095,CUST-1095,59,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",360,Credit Card,4,105,11,false,false
+TXN-50096,CUST-1096,66,Male,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",373,PayPal,3,108,13,true,false
+TXN-50097,CUST-1097,21,Female,Apparel,"Silk Scarf;Cotton T-Shirt",386,Debit Card,5,111,15,false,false
+TXN-50098,CUST-1098,28,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",504,Apple Pay,5,28,10,false,false
+TXN-50099,CUST-1099,35,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",412,Cash on Delivery,2,159,2,true,true
+TXN-50100,CUST-1100,42,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",425,,5,120,6,false,false
+TXN-50101,CUST-1101,49,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",438,PayPal,4,123,8,false,false
+TXN-50102,CUST-1102,56,Female,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",451,Debit Card,3,126,10,true,false
+TXN-50103,CUST-1103,63,Male,Apparel,"Leather Belt;Silk Scarf",464,Apple Pay,5,129,12,false,false
+TXN-50104,CUST-1104,18,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",27,Cash on Delivery,4,132,14,false,false
+TXN-50105,CUST-1105,25,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",665,Credit Card,5,10,17,true,false
+TXN-50106,CUST-1106,32,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",53,PayPal,5,138,3,false,false
+TXN-50107,CUST-1107,39,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",66,Debit Card,4,141,5,false,false
+TXN-50108,CUST-1108,46,Male,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",79,Apple Pay,3,144,7,true,false
+TXN-50109,CUST-1109,53,Other,Apparel,"Winter Jacket;Leather Belt",92,Cash on Delivery,5,147,9,false,false
+TXN-50110,CUST-1110,60,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",105,Credit Card,2,170,1,false,true
+TXN-50111,CUST-1111,67,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",118,PayPal,3,153,13,true,false
+TXN-50112,CUST-1112,22,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",826,Debit Card,5,17,12,false,false
+TXN-50113,CUST-1113,29,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",144,Apple Pay,4,159,2,false,true
+TXN-50114,CUST-1114,36,Other,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",157,Cash on Delivery,3,162,4,true,false
+TXN-50115,CUST-1115,-99,Female,Apparel,"Sneakers;Winter Jacket",170,Credit Card,5,165,6,false,false
+TXN-50116,CUST-1116,50,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",183,PayPal,4,168,8,false,false
+TXN-50117,CUST-1117,57,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",196,Debit Card,3,171,10,true,false
+TXN-50118,CUST-1118,64,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",209,Apple Pay,5,174,12,false,false
+TXN-50119,CUST-1119,19,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",987,Cash on Delivery,5,24,19,false,false
+TXN-50120,CUST-1120,26,Female,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",235,Credit Card,3,0,1,true,false
+TXN-50121,CUST-1121,33,Male,Apparel,"Hoodie Fleece;Sneakers",248,PayPal,2,121,2,false,true
+TXN-50122,CUST-1122,40,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",261,Debit Card,4,6,5,false,false
+TXN-50123,CUST-1123,47,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",274,Apple Pay,3,9,7,true,false
+TXN-50124,CUST-1124,54,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",287,Cash on Delivery,5,12,9,false,false
+TXN-50125,CUST-1125,61,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",300,Credit Card,4,15,11,false,false
+TXN-50126,CUST-1126,68,Male,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",598,PayPal,5,6,14,true,false
+TXN-50127,CUST-1127,23,Female,Apparel,"Denim Jeans;Hoodie Fleece",326,Debit Card,5,21,15,false,false
+TXN-50128,CUST-1128,30,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",339,Apple Pay,4,24,2,false,false
+TXN-50129,CUST-1129,37,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",352,Cash on Delivery,3,27,4,true,false
+TXN-50130,CUST-1130,44,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",365,Credit Card,5,,6,false,false
+TXN-50131,CUST-1131,51,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",378,PayPal,4,33,8,false,false
+TXN-50132,CUST-1132,58,Female,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",391,Debit Card,2,132,1,true,true
+TXN-50133,CUST-1133,65,Male,Apparel,"Cotton T-Shirt;Denim Jeans",759,Apple Pay,5,13,9,false,false
+TXN-50134,CUST-1134,20,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",417,Cash on Delivery,4,42,14,false,false
+TXN-50135,CUST-1135,27,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",430,Credit Card,3,45,1,true,false
+TXN-50136,CUST-1136,34,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",443,PayPal,5,48,3,false,false
+TXN-50137,CUST-1137,41,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",456,Debit Card,4,51,5,false,false
+TXN-50138,CUST-1138,48,Male,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",469,Apple Pay,3,54,7,true,false
+TXN-50139,CUST-1139,55,Other,Apparel,"Silk Scarf;Cotton T-Shirt",32,Cash on Delivery,5,57,9,false,false
+TXN-50140,CUST-1140,62,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",920,Credit Card,5,20,16,false,false
+TXN-50141,CUST-1141,69,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",58,PayPal,3,63,13,true,false
+TXN-50142,CUST-1142,24,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",71,Debit Card,5,66,15,false,false
+TXN-50143,CUST-1143,31,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",84,Apple Pay,2,143,2,false,true
+TXN-50144,CUST-1144,38,Other,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",97,Cash on Delivery,3,72,4,true,false
+TXN-50145,CUST-1145,45,Female,Apparel,"Leather Belt;Silk Scarf",110,Credit Card,5,75,,false,false
+TXN-50146,CUST-1146,52,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",123,PayPal,4,78,8,false,false
+TXN-50147,CUST-1147,59,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",531,Debit Card,5,27,11,true,false
+TXN-50148,CUST-1148,66,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",149,Apple Pay,5,84,12,false,false
+TXN-50149,CUST-1149,21,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",162,Cash on Delivery,4,87,14,false,false
+TXN-50150,CUST-1150,28,Female,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",175,Credit Card,3,90,1,true,false
+TXN-50151,CUST-1151,35,Male,Apparel,"Winter Jacket;Leather Belt",188,PayPal,5,93,3,false,false
+TXN-50152,CUST-1152,42,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",201,Debit Card,4,96,5,false,false
+TXN-50153,CUST-1153,49,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",214,Apple Pay,3,99,7,true,false
+TXN-50154,CUST-1154,56,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",692,Cash on Delivery,2,154,1,false,true
+TXN-50155,CUST-1155,63,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",240,Credit Card,4,105,11,false,false
+TXN-50156,CUST-1156,18,Male,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",253,PayPal,3,108,13,true,false
+TXN-50157,CUST-1157,25,Female,Apparel,"Sneakers;Winter Jacket",266,Debit Card,5,111,15,false,false
+TXN-50158,CUST-1158,32,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",279,Apple Pay,4,114,2,false,true
+TXN-50159,CUST-1159,39,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",292,Cash on Delivery,3,117,4,true,false
+TXN-50160,CUST-1160,46,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",305,Credit Card,5,120,6,false,false
+TXN-50161,CUST-1161,53,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",853,PayPal,5,16,13,false,false
+TXN-50162,CUST-1162,60,Female,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",331,Debit Card,3,126,10,true,false
+TXN-50163,CUST-1163,67,Male,Apparel,"Hoodie Fleece;Sneakers",344,Apple Pay,5,129,12,false,false
+TXN-50164,CUST-1164,22,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",357,Cash on Delivery,4,132,14,false,false
+TXN-50165,CUST-1165,29,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",370,Credit Card,2,165,2,true,true
+TXN-50166,CUST-1166,36,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",383,PayPal,5,138,3,false,false
+TXN-50167,CUST-1167,43,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",396,Debit Card,4,141,5,false,false
+TXN-50168,CUST-1168,50,Male,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",464,Apple Pay,5,23,8,true,false
+TXN-50169,CUST-1169,57,Other,Apparel,"Denim Jeans;Hoodie Fleece",422,Cash on Delivery,5,147,9,false,false
+TXN-50170,CUST-1170,64,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",435,Credit Card,4,150,11,false,false
+TXN-50171,CUST-1171,19,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",448,PayPal,3,153,13,true,false
+TXN-50172,CUST-1172,26,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",461,Debit Card,5,156,15,false,false
+TXN-50173,CUST-1173,33,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",474,Apple Pay,4,159,2,false,true
+TXN-50174,CUST-1174,40,Other,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",37,Cash on Delivery,3,162,4,true,false
+TXN-50175,CUST-1175,47,Female,Apparel,"Cotton T-Shirt;Denim Jeans",625,Credit Card,5,5,15,false,false
+TXN-50176,CUST-1176,54,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",63,PayPal,2,176,1,false,true
+TXN-50177,CUST-1177,61,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",76,Debit Card,3,171,10,true,false
+TXN-50178,CUST-1178,68,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",89,Apple Pay,5,174,12,false,false
+TXN-50179,CUST-1179,23,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",102,Cash on Delivery,4,177,14,false,false
+TXN-50180,CUST-1180,30,Female,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",115,Credit Card,3,0,1,true,false
+TXN-50181,CUST-1181,37,Male,Apparel,"Silk Scarf;Cotton T-Shirt",128,PayPal,5,3,3,false,false
+TXN-50182,CUST-1182,44,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",786,Debit Card,5,12,10,false,false
+TXN-50183,CUST-1183,51,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",154,Apple Pay,3,9,7,true,false
+TXN-50184,CUST-1184,58,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",167,Cash on Delivery,5,12,9,false,false
+TXN-50185,CUST-1185,65,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",180,Credit Card,4,15,11,false,false
+TXN-50186,CUST-1186,20,Male,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",193,PayPal,3,18,13,true,false
+TXN-50187,CUST-1187,27,Female,Apparel,"Leather Belt;Silk Scarf",206,Debit Card,2,127,2,false,true
+TXN-50188,CUST-1188,34,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",219,Apple Pay,4,24,2,false,false
+TXN-50189,CUST-1189,41,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",947,Cash on Delivery,5,19,17,true,false
+TXN-50190,CUST-1190,48,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",245,Credit Card,5,30,6,false,false
+TXN-50191,CUST-1191,55,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",258,PayPal,4,33,8,false,false
+TXN-50192,CUST-1192,62,Female,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",271,Debit Card,3,36,10,true,false
+TXN-50193,CUST-1193,69,Male,Apparel,"Winter Jacket;Leather Belt",284,Apple Pay,5,39,12,false,false
+TXN-50194,CUST-1194,24,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",297,Cash on Delivery,4,42,14,false,false
+TXN-50195,CUST-1195,31,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",310,Credit Card,3,45,1,true,false
+TXN-50196,CUST-1196,38,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",558,PayPal,5,26,12,false,false
+TXN-50197,CUST-1197,45,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",336,Debit Card,4,51,5,false,false
+TXN-50198,CUST-1198,52,Male,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",349,Apple Pay,2,138,1,true,true
+TXN-50199,CUST-1199,59,Other,Apparel,"Sneakers;Winter Jacket",362,Cash on Delivery,5,57,9,false,false
+TXN-50200,CUST-1200,66,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",375,Credit Card,4,60,11,false,false
+TXN-50201,CUST-1201,21,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",388,PayPal,3,63,13,true,false
+TXN-50202,CUST-1202,28,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",401,Debit Card,5,66,15,false,false
+TXN-50203,CUST-1203,35,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",719,Apple Pay,5,8,19,false,false
+TXN-50204,CUST-1204,42,Other,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",427,Cash on Delivery,3,72,4,true,false
+TXN-50205,CUST-1205,49,Female,Apparel,"Hoodie Fleece;Sneakers",440,Credit Card,5,75,6,false,false
+TXN-50206,CUST-1206,56,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",453,PayPal,4,78,8,false,false
+TXN-50207,CUST-1207,63,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",466,Debit Card,3,81,10,true,false
+TXN-50208,CUST-1208,18,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",29,Apple Pay,5,84,12,false,false
+TXN-50209,CUST-1209,25,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",42,Cash on Delivery,2,149,2,false,true
+TXN-50210,CUST-1210,32,Female,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",880,Credit Card,5,15,14,true,false
+TXN-50211,CUST-1211,39,Male,Apparel,"Denim Jeans;Hoodie Fleece",68,PayPal,5,93,3,false,false
+TXN-50212,CUST-1212,46,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",81,Debit Card,4,96,5,false,false
+TXN-50213,CUST-1213,53,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",94,Apple Pay,3,99,7,true,false
+TXN-50214,CUST-1214,60,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",107,Cash on Delivery,5,102,9,false,false
+TXN-50215,CUST-1215,67,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",120,Credit Card,4,105,11,false,false
+TXN-50216,CUST-1216,22,Male,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",133,PayPal,3,108,13,true,false
+TXN-50217,CUST-1217,29,Female,Apparel,"Cotton T-Shirt;Denim Jeans",491,Debit Card,5,22,9,false,false
+TXN-50218,CUST-1218,36,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",159,Apple Pay,4,114,2,false,true
+TXN-50219,CUST-1219,43,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",172,Cash on Delivery,3,117,4,true,false
+TXN-50220,CUST-1220,50,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",185,Credit Card,2,160,1,false,true
+TXN-50221,CUST-1221,57,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",198,PayPal,4,123,8,false,false
+TXN-50222,CUST-1222,64,Female,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",211,Debit Card,3,126,10,true,false
+TXN-50223,CUST-1223,19,Male,Apparel,"Silk Scarf;Cotton T-Shirt",224,Apple Pay,5,129,12,false,false
+TXN-50224,CUST-1224,26,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",652,Cash on Delivery,5,29,16,false,false
+TXN-50225,CUST-1225,33,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",250,Credit Card,3,135,1,true,true
+TXN-50226,CUST-1226,40,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",263,PayPal,5,138,3,false,false
+TXN-50227,CUST-1227,47,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",276,Debit Card,4,141,5,false,false
+TXN-50228,CUST-1228,54,Male,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",289,Apple Pay,3,144,7,true,false
+TXN-50229,CUST-1229,61,Other,Apparel,"Leather Belt;Silk Scarf",302,Cash on Delivery,5,147,9,false,false
+TXN-50230,CUST-1230,68,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",315,Credit Card,4,150,11,false,false
+TXN-50231,CUST-1231,23,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",813,PayPal,2,171,2,true,true
+TXN-50232,CUST-1232,30,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",341,Debit Card,5,156,15,false,false
+TXN-50233,CUST-1233,37,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",354,Apple Pay,4,159,2,false,true
+TXN-50234,CUST-1234,44,Other,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",367,Cash on Delivery,3,162,4,true,false
+TXN-50235,CUST-1235,51,Female,Apparel,"Winter Jacket;Leather Belt",380,Credit Card,5,165,6,false,false
+TXN-50236,CUST-1236,58,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",393,PayPal,4,168,8,false,false
+TXN-50237,CUST-1237,65,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",406,Debit Card,3,171,10,true,false
+TXN-50238,CUST-1238,20,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",974,Apple Pay,5,18,18,false,false
+TXN-50239,CUST-1239,27,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",432,Cash on Delivery,4,177,14,false,false
+TXN-50240,CUST-1240,34,Female,Electronics,"USB-C Cable;Portable Charger;Mechanical Keyboard",445,Credit Card,3,0,1,true,false
+TXN-50241,CUST-1241,41,Male,Apparel,"Sneakers;Winter Jacket",458,PayPal,5,3,3,false,false
+TXN-50242,CUST-1242,48,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",471,Debit Card,2,122,1,false,true
+TXN-50243,CUST-1243,55,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",34,Apple Pay,3,9,7,true,false
+TXN-50244,CUST-1244,62,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",47,Cash on Delivery,5,12,9,false,false
+TXN-50245,CUST-1245,69,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",585,Credit Card,5,25,13,false,false
+TXN-50246,CUST-1246,24,Male,Electronics,"Smartphone Case;USB-C Cable;Portable Charger",73,PayPal,3,18,13,true,false
+TXN-50247,CUST-1247,31,Female,Apparel,"Hoodie Fleece;Sneakers",86,Debit Card,5,21,15,false,false
+TXN-50248,CUST-1248,38,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",99,Apple Pay,4,24,2,false,false
+TXN-50249,CUST-1249,45,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",112,Cash on Delivery,3,27,4,true,false
+TXN-50250,CUST-1250,52,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",125,Credit Card,5,30,6,false,false
+TXN-50251,CUST-1251,59,Male,Books & Stationery,"Gel Pen 6-Pack;Productivity Planner",138,PayPal,4,33,8,false,false
+TXN-50252,CUST-1252,66,Female,Electronics,"Wireless Headphones;Smartphone Case;USB-C Cable",746,Debit Card,5,7,8,true,false
+TXN-50253,CUST-1253,21,Male,Apparel,"Denim Jeans;Hoodie Fleece",164,Apple Pay,2,133,2,false,true
+TXN-50254,CUST-1254,28,Other,Home & Living,"Aromatherapy Diffuser;Throw Pillow",177,Cash on Delivery,4,42,14,false,false
+TXN-50255,CUST-1255,35,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",190,Credit Card,3,45,1,true,false
+TXN-50256,CUST-1256,42,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",203,PayPal,5,48,3,false,false
+TXN-50257,CUST-1257,49,Female,Books & Stationery,"Productivity Planner;Data Science Handbook",216,Debit Card,4,51,5,false,false
+TXN-50258,CUST-1258,56,Male,Electronics,"Bluetooth Speaker;Wireless Headphones;Smartphone Case",229,Apple Pay,3,54,7,true,false
+TXN-50259,CUST-1259,63,Other,Apparel,"Cotton T-Shirt;Denim Jeans",907,Cash on Delivery,5,14,15,false,false
+TXN-50260,CUST-1260,18,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",255,Credit Card,4,60,11,false,false
+TXN-50261,CUST-1261,25,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",268,PayPal,3,63,13,true,false
+TXN-50262,CUST-1262,32,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",281,Debit Card,5,66,15,false,false
+TXN-50263,CUST-1263,39,Male,Books & Stationery,"Data Science Handbook;Desk Organizer",294,Apple Pay,4,69,2,false,false
+TXN-50264,CUST-1264,46,Other,Electronics,"Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable",307,Cash on Delivery,2,144,1,true,true
+TXN-50265,CUST-1265,53,Female,Apparel,"Silk Scarf;Cotton T-Shirt",320,Credit Card,5,75,6,false,false
+TXN-50266,CUST-1266,60,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",518,PayPal,5,21,10,false,false
+TXN-50267,CUST-1267,67,Female,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",346,Debit Card,3,81,10,true,false
+TXN-50268,CUST-1268,22,Male,Sports & Outdoors,"Running Shoes;Sports Backpack",359,Apple Pay,5,84,12,false,false
+TXN-50269,CUST-1269,29,Other,Books & Stationery,"Desk Organizer;Hardcover Journal",372,Cash on Delivery,4,87,14,false,false
+TXN-50270,CUST-1270,36,Female,Electronics,"Mechanical Keyboard;Smartwatch;Bluetooth Speaker",385,Credit Card,3,90,1,true,false
+TXN-50271,CUST-1271,43,Male,Apparel,"Leather Belt;Silk Scarf",398,PayPal,5,93,3,false,false
+TXN-50272,CUST-1272,50,Female,Home & Living,"Aromatherapy Diffuser;Throw Pillow",411,Debit Card,4,96,5,false,false
+TXN-50273,CUST-1273,57,Male,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",679,Apple Pay,5,28,17,true,false
+TXN-50274,CUST-1274,64,Other,Sports & Outdoors,"Running Shoes;Sports Backpack",437,Cash on Delivery,5,102,9,false,false
+TXN-50275,CUST-1275,19,Female,Books & Stationery,"Hardcover Journal;Gel Pen 6-Pack",450,Credit Card,2,155,2,false,true
+TXN-50276,CUST-1276,26,Male,Electronics,"Portable Charger;Mechanical Keyboard;Smartwatch",463,PayPal,3,108,13,true,false
+TXN-50277,CUST-1277,33,Female,Apparel,"Winter Jacket;Leather Belt",26,Debit Card,5,111,15,false,false
+TXN-50278,CUST-1278,40,Male,Home & Living,"Aromatherapy Diffuser;Throw Pillow",39,Apple Pay,4,114,2,false,true
+TXN-50279,CUST-1279,47,Other,Beauty & Care,"Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen",52,Cash on Delivery,3,117,4,true,false
+TXN-50280,CUST-1280,54,Female,Sports & Outdoors,"Running Shoes;Sports Backpack",840,Credit Card,5,10,12,false,false
+TXN-99991,DUMMY_TEST_USER_01,999,,TEST_SAMPLE,"Test Product A",0,Test_Gateway,0,,0,,false
+TXN-99992,CUST-DEBUG-QA,,Other,,"",-9999,,,-1,,false,
+TXN-99993,GUEST_0000,0,N/A,Electronics,"USB-C Cable",0.01,Cash on Delivery,1,999,1,true,true
+TXN-99994,DUPLICATE_TXN_SEED,34,Female,Apparel,"Cotton T-Shirt",29.99,Credit Card,5,12,4,false,false
+TXN-99994,DUPLICATE_TXN_SEED,34,Female,Apparel,"Cotton T-Shirt",29.99,Credit Card,5,12,4,false,false

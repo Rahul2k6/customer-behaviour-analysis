@@ -1,0 +1,281 @@
+Transaction_ID,Customer_ID,Age,Gender,Item_Category,Items_Purchased,Purchase_Amount,Payment_Method,Review_Rating,Days_Since_Last_Purchase,Frequency_Annual,Discount_Applied,Is_Churned,R_Score,F_Score,M_Score,RFM_Score,RFM_Segment,Cluster,Cluster_Persona
+TXN-50001,CUST-1001,25.0,Male,Apparel,Denim Jeans;Hoodie Fleece,38.0,PayPal,5.0,3.0,3.0,False,False,5,2,1,521,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50002,CUST-1002,32.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,51.0,Debit Card,4.0,6.0,5.0,False,False,5,2,1,521,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50003,CUST-1003,39.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,64.0,Apple Pay,3.0,9.0,7.0,True,False,5,3,1,531,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50004,CUST-1004,46.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,77.0,Cash on Delivery,5.0,12.0,9.0,False,False,5,3,1,531,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50005,CUST-1005,43.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,90.0,Credit Card,4.0,15.0,11.0,False,False,5,4,1,541,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50006,CUST-1006,60.0,Male,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,103.0,PayPal,3.0,18.0,13.0,True,False,5,4,1,541,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50007,CUST-1007,67.0,Female,Apparel,Cotton T-Shirt;Denim Jeans,611.0,Debit Card,5.0,12.0,15.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50008,CUST-1008,22.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,129.0,Apple Pay,4.0,24.0,2.0,False,False,4,1,2,412,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50009,CUST-1009,29.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,142.0,Cash on Delivery,3.0,27.0,4.0,True,False,4,2,2,422,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50010,CUST-1010,36.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,155.0,Credit Card,5.0,30.0,6.0,False,False,4,2,2,422,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50011,CUST-1011,43.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,168.0,PayPal,2.0,131.0,2.0,False,True,2,1,2,212,Hibernating,2,Steady Regular Family Shoppers
+TXN-50012,CUST-1012,43.0,Female,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,181.0,Debit Card,3.0,36.0,10.0,True,False,4,3,2,432,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50013,CUST-1013,57.0,Male,Apparel,Silk Scarf;Cotton T-Shirt,194.0,Apple Pay,5.0,39.0,12.0,False,False,4,4,2,442,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50014,CUST-1014,64.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,772.0,Cash on Delivery,5.0,19.0,10.0,False,False,5,3,5,535,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50015,CUST-1015,19.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,220.0,Credit Card,3.0,45.0,1.0,True,False,4,1,2,412,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50016,CUST-1016,26.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,233.0,PayPal,5.0,48.0,3.0,False,False,4,2,2,422,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50017,CUST-1017,33.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,246.0,Debit Card,4.0,51.0,5.0,False,False,4,2,3,423,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50018,CUST-1018,40.0,Male,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,259.0,Apple Pay,3.0,54.0,7.0,True,False,4,3,3,433,Loyal Customers,2,Steady Regular Family Shoppers
+TXN-50019,CUST-1019,47.0,Other,Apparel,Leather Belt;Silk Scarf,272.0,Cash on Delivery,5.0,57.0,9.0,False,False,4,3,3,433,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50020,CUST-1020,54.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,285.5,Credit Card,4.0,60.0,11.0,False,False,3,4,3,343,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50021,CUST-1021,61.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,933.0,PayPal,5.0,26.0,17.0,True,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50022,CUST-1022,68.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,311.0,Debit Card,2.0,142.0,1.0,False,True,1,1,3,113,Hibernating,2,Steady Regular Family Shoppers
+TXN-50023,CUST-1023,23.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,324.0,Apple Pay,4.0,69.0,2.0,False,False,3,1,3,313,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50024,CUST-1024,30.0,Other,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,337.0,Cash on Delivery,3.0,72.0,4.0,True,False,3,2,3,323,Need Attention,2,Steady Regular Family Shoppers
+TXN-50025,CUST-1025,37.0,Female,Apparel,Winter Jacket;Leather Belt,350.0,Credit Card,5.0,75.0,6.0,False,False,3,2,4,324,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50026,CUST-1026,44.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,363.0,PayPal,4.0,78.0,8.0,False,False,3,3,4,334,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50027,CUST-1027,51.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,376.0,Debit Card,3.0,81.0,10.0,True,False,3,4,4,344,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50028,CUST-1028,58.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,544.0,Apple Pay,5.0,8.0,12.0,False,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-50029,CUST-1029,65.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,402.0,Cash on Delivery,4.0,87.0,14.0,False,False,3,5,4,354,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50030,CUST-1030,20.0,Female,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,415.0,Credit Card,3.0,90.0,1.0,True,False,3,1,4,314,Need Attention,2,Steady Regular Family Shoppers
+TXN-50031,CUST-1031,27.0,Male,Apparel,Sneakers;Winter Jacket,428.0,PayPal,5.0,93.0,3.0,False,False,3,2,4,324,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50032,CUST-1032,34.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,441.0,Debit Card,4.0,96.0,5.0,False,False,3,2,4,324,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50033,CUST-1033,41.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,454.0,Apple Pay,2.0,153.0,2.0,True,True,1,1,5,115,Hibernating,2,Steady Regular Family Shoppers
+TXN-50034,CUST-1034,48.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,467.0,Cash on Delivery,5.0,102.0,9.0,False,False,2,3,5,235,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50035,CUST-1035,55.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,285.5,Credit Card,5.0,15.0,19.0,False,False,5,5,3,553,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50036,CUST-1036,62.0,Male,Electronics,Smartphone Case;USB-C Cable;Portable Charger,43.0,PayPal,3.0,108.0,13.0,True,False,2,4,1,241,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50037,CUST-1037,69.0,Female,Apparel,Hoodie Fleece;Sneakers,56.0,Debit Card,5.0,111.0,15.0,False,False,2,5,1,251,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50038,CUST-1038,24.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,69.0,Apple Pay,4.0,114.0,2.0,False,True,2,1,1,211,Hibernating,2,Steady Regular Family Shoppers
+TXN-50039,CUST-1039,31.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,82.0,Cash on Delivery,3.0,117.0,4.0,True,False,2,2,1,221,Hibernating,2,Steady Regular Family Shoppers
+TXN-50040,CUST-1040,38.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,95.0,Credit Card,5.0,120.0,6.0,False,False,2,2,1,221,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50041,CUST-1041,45.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,108.0,PayPal,4.0,123.0,8.0,False,False,2,3,1,231,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50042,CUST-1042,52.0,Female,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,866.0,Debit Card,5.0,22.0,14.0,True,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50043,CUST-1043,59.0,Male,Apparel,Denim Jeans;Hoodie Fleece,134.0,Apple Pay,5.0,129.0,12.0,False,False,2,4,2,242,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50044,CUST-1044,66.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,147.0,Cash on Delivery,2.0,164.0,1.0,False,True,1,1,2,112,Hibernating,2,Steady Regular Family Shoppers
+TXN-50045,CUST-1045,21.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,160.0,Credit Card,4.0,135.0,1.0,True,True,2,1,2,212,Hibernating,2,Steady Regular Family Shoppers
+TXN-50046,CUST-1046,28.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,173.0,PayPal,5.0,138.0,3.0,False,False,2,2,2,222,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50047,CUST-1047,35.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,186.0,Debit Card,4.0,141.0,5.0,False,False,2,2,2,222,Hibernating,2,Steady Regular Family Shoppers
+TXN-50048,CUST-1048,42.0,Male,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,199.0,Apple Pay,3.0,144.0,7.0,True,False,1,3,2,132,Promising / New,2,Steady Regular Family Shoppers
+TXN-50049,CUST-1049,49.0,Other,Apparel,Cotton T-Shirt;Denim Jeans,477.0,Cash on Delivery,5.0,29.0,9.0,False,False,4,3,5,435,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50050,CUST-1050,56.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,225.0,Credit Card,4.0,150.0,11.0,False,False,1,4,2,142,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50051,CUST-1051,63.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,238.0,PayPal,3.0,153.0,13.0,True,False,1,4,2,142,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50052,CUST-1052,18.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,251.0,Debit Card,5.0,156.0,15.0,False,False,1,5,3,153,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50053,CUST-1053,25.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,264.0,Apple Pay,4.0,159.0,2.0,False,True,1,1,3,113,Hibernating,2,Steady Regular Family Shoppers
+TXN-50054,CUST-1054,32.0,Other,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,277.0,Cash on Delivery,3.0,162.0,4.0,True,False,1,2,3,123,Hibernating,2,Steady Regular Family Shoppers
+TXN-50055,CUST-1055,39.0,Female,Apparel,Silk Scarf;Cotton T-Shirt,290.0,Credit Card,2.0,175.0,2.0,False,True,1,1,3,113,Hibernating,2,Steady Regular Family Shoppers
+TXN-50056,CUST-1056,46.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,638.0,PayPal,5.0,11.0,16.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50057,CUST-1057,53.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,316.0,Debit Card,3.0,171.0,10.0,True,False,1,4,3,143,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50058,CUST-1058,60.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,329.0,Apple Pay,5.0,174.0,12.0,False,False,1,4,3,143,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50059,CUST-1059,67.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,342.0,Cash on Delivery,4.0,177.0,14.0,False,False,1,5,3,153,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50060,CUST-1060,22.0,Female,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,355.0,Credit Card,4.0,0.0,1.0,True,False,5,1,4,514,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50061,CUST-1061,29.0,Male,Apparel,Leather Belt;Silk Scarf,368.0,PayPal,5.0,3.0,3.0,False,False,5,2,4,524,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50062,CUST-1062,36.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,381.0,Debit Card,4.0,6.0,5.0,False,False,5,2,4,524,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50063,CUST-1063,43.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,799.0,Apple Pay,5.0,18.0,11.0,True,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-50064,CUST-1064,50.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,407.0,Cash on Delivery,5.0,12.0,9.0,False,False,5,3,4,534,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50065,CUST-1065,57.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,420.0,Credit Card,4.0,15.0,11.0,False,False,5,4,4,544,Champions,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50066,CUST-1066,64.0,Male,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,433.0,PayPal,2.0,126.0,1.0,True,True,2,1,4,214,Hibernating,2,Steady Regular Family Shoppers
+TXN-50067,CUST-1067,19.0,Female,Apparel,Winter Jacket;Leather Belt,446.0,Debit Card,5.0,21.0,15.0,False,False,5,5,4,554,Champions,1,Deal Hunters & Tech Explorers
+TXN-50068,CUST-1068,26.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,459.0,Apple Pay,4.0,24.0,2.0,False,False,4,1,5,415,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50069,CUST-1069,33.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,472.0,Cash on Delivery,3.0,27.0,4.0,True,False,4,2,5,425,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50070,CUST-1070,40.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,960.0,Credit Card,5.0,25.0,18.0,False,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50071,CUST-1071,47.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,48.0,PayPal,4.0,33.0,8.0,False,False,4,3,1,431,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50072,CUST-1072,54.0,Female,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,61.0,Debit Card,3.0,36.0,10.0,True,False,4,4,1,441,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50073,CUST-1073,61.0,Male,Apparel,Sneakers;Winter Jacket,74.0,Apple Pay,5.0,39.0,12.0,False,False,4,4,1,441,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50074,CUST-1074,68.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,87.0,Cash on Delivery,4.0,42.0,14.0,False,False,4,5,1,451,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50075,CUST-1075,23.0,Female,General,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,100.0,Credit Card,3.0,45.0,1.0,True,False,4,1,1,411,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50076,CUST-1076,30.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,113.0,PayPal,5.0,48.0,3.0,False,False,4,2,1,421,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50077,CUST-1077,37.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,571.0,Debit Card,2.0,137.0,2.0,False,True,2,1,5,215,Hibernating,2,Steady Regular Family Shoppers
+TXN-50078,CUST-1078,44.0,Male,Electronics,Smartphone Case;USB-C Cable;Portable Charger,139.0,Apple Pay,3.0,54.0,7.0,True,False,4,3,2,432,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50079,CUST-1079,51.0,Other,Apparel,Hoodie Fleece;Sneakers,152.0,Cash on Delivery,5.0,57.0,9.0,False,False,4,3,2,432,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50080,CUST-1080,58.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,165.0,Credit Card,4.0,60.0,11.0,False,False,3,4,2,342,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50081,CUST-1081,65.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,178.0,PayPal,3.0,63.0,13.0,True,False,3,4,2,342,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50082,CUST-1082,20.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,191.0,Debit Card,5.0,66.0,15.0,False,False,3,5,2,352,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50083,CUST-1083,27.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,204.0,Apple Pay,4.0,69.0,2.0,False,False,3,1,2,312,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50084,CUST-1084,34.0,Other,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,732.0,Cash on Delivery,5.0,14.0,8.0,True,False,5,3,5,535,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50086,CUST-1086,48.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,243.0,PayPal,4.0,78.0,8.0,False,False,3,3,3,333,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50087,CUST-1087,55.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,256.0,Debit Card,3.0,81.0,10.0,True,False,3,4,3,343,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50088,CUST-1088,62.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,269.0,Apple Pay,2.0,148.0,1.0,False,True,1,1,3,113,Hibernating,2,Steady Regular Family Shoppers
+TXN-50089,CUST-1089,69.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,282.0,Cash on Delivery,4.0,87.0,14.0,False,False,3,5,3,353,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50090,CUST-1090,24.0,Female,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,295.0,Credit Card,3.0,90.0,1.0,True,False,3,1,3,313,Need Attention,2,Steady Regular Family Shoppers
+TXN-50091,CUST-1091,31.0,Male,Apparel,Cotton T-Shirt;Denim Jeans,893.0,PayPal,5.0,21.0,15.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50092,CUST-1092,38.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,321.0,Debit Card,4.0,96.0,5.0,False,False,3,2,3,323,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50093,CUST-1093,45.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,334.0,Apple Pay,3.0,99.0,7.0,True,False,3,3,3,333,Loyal Customers,2,Steady Regular Family Shoppers
+TXN-50094,CUST-1094,52.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,347.0,Cash on Delivery,5.0,102.0,9.0,False,False,2,3,4,234,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50095,CUST-1095,59.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,360.0,Credit Card,4.0,105.0,11.0,False,False,2,4,4,244,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50096,CUST-1096,66.0,Male,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,373.0,PayPal,3.0,108.0,13.0,True,False,2,4,4,244,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50097,CUST-1097,21.0,Female,Apparel,Silk Scarf;Cotton T-Shirt,386.0,Debit Card,5.0,111.0,15.0,False,False,2,5,4,254,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50098,CUST-1098,28.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,504.0,Apple Pay,5.0,28.0,10.0,False,False,4,4,5,445,Champions,1,Deal Hunters & Tech Explorers
+TXN-50099,CUST-1099,35.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,412.0,Cash on Delivery,2.0,159.0,2.0,True,True,1,1,4,114,Hibernating,2,Steady Regular Family Shoppers
+TXN-50100,CUST-1100,42.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,425.0,Credit Card,5.0,120.0,6.0,False,False,2,2,4,224,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50101,CUST-1101,49.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,438.0,PayPal,4.0,123.0,8.0,False,False,2,3,4,234,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50102,CUST-1102,56.0,Female,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,451.0,Debit Card,3.0,126.0,10.0,True,False,2,4,5,245,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50103,CUST-1103,63.0,Male,Apparel,Leather Belt;Silk Scarf,464.0,Apple Pay,5.0,129.0,12.0,False,False,2,4,5,245,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50104,CUST-1104,18.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,27.0,Cash on Delivery,4.0,132.0,14.0,False,False,2,5,1,251,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50105,CUST-1105,25.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,665.0,Credit Card,5.0,10.0,17.0,True,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50106,CUST-1106,32.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,53.0,PayPal,5.0,138.0,3.0,False,False,2,2,1,221,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50107,CUST-1107,39.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,66.0,Debit Card,4.0,141.0,5.0,False,False,2,2,1,221,Hibernating,2,Steady Regular Family Shoppers
+TXN-50108,CUST-1108,46.0,Male,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,79.0,Apple Pay,3.0,144.0,7.0,True,False,1,3,1,131,Promising / New,2,Steady Regular Family Shoppers
+TXN-50109,CUST-1109,53.0,Other,Apparel,Winter Jacket;Leather Belt,92.0,Cash on Delivery,5.0,147.0,9.0,False,False,1,3,1,131,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50110,CUST-1110,60.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,105.0,Credit Card,2.0,170.0,1.0,False,True,1,1,1,111,Hibernating,2,Steady Regular Family Shoppers
+TXN-50111,CUST-1111,67.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,118.0,PayPal,3.0,153.0,13.0,True,False,1,4,1,141,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50112,CUST-1112,22.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,826.0,Debit Card,5.0,17.0,12.0,False,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-50113,CUST-1113,29.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,144.0,Apple Pay,4.0,159.0,2.0,False,True,1,1,2,112,Hibernating,2,Steady Regular Family Shoppers
+TXN-50114,CUST-1114,36.0,Other,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,157.0,Cash on Delivery,3.0,162.0,4.0,True,False,1,2,2,122,Hibernating,2,Steady Regular Family Shoppers
+TXN-50115,CUST-1115,43.0,Female,Apparel,Sneakers;Winter Jacket,170.0,Credit Card,5.0,165.0,6.0,False,False,1,2,2,122,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50116,CUST-1116,50.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,183.0,PayPal,4.0,168.0,8.0,False,False,1,3,2,132,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50117,CUST-1117,57.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,196.0,Debit Card,3.0,171.0,10.0,True,False,1,4,2,142,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50118,CUST-1118,64.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,209.0,Apple Pay,5.0,174.0,12.0,False,False,1,4,2,142,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50119,CUST-1119,19.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,987.0,Cash on Delivery,5.0,24.0,19.0,False,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50120,CUST-1120,26.0,Female,Electronics,Smartphone Case;USB-C Cable;Portable Charger,235.0,Credit Card,3.0,0.0,1.0,True,False,5,1,2,512,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50121,CUST-1121,33.0,Male,Apparel,Hoodie Fleece;Sneakers,248.0,PayPal,2.0,121.0,2.0,False,True,2,1,3,213,Hibernating,2,Steady Regular Family Shoppers
+TXN-50122,CUST-1122,40.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,261.0,Debit Card,4.0,6.0,5.0,False,False,5,2,3,523,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50123,CUST-1123,47.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,274.0,Apple Pay,3.0,9.0,7.0,True,False,5,3,3,533,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50124,CUST-1124,54.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,287.0,Cash on Delivery,5.0,12.0,9.0,False,False,5,3,3,533,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50125,CUST-1125,61.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,300.0,Credit Card,4.0,15.0,11.0,False,False,5,4,3,543,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50126,CUST-1126,68.0,Male,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,598.0,PayPal,5.0,6.0,14.0,True,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50127,CUST-1127,23.0,Female,Apparel,Denim Jeans;Hoodie Fleece,326.0,Debit Card,5.0,21.0,15.0,False,False,5,5,3,553,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50128,CUST-1128,30.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,339.0,Apple Pay,4.0,24.0,2.0,False,False,4,1,3,413,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50129,CUST-1129,37.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,352.0,Cash on Delivery,3.0,27.0,4.0,True,False,4,2,4,424,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50130,CUST-1130,44.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,365.0,Credit Card,5.0,78.0,6.0,False,False,3,2,4,324,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50131,CUST-1131,51.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,378.0,PayPal,4.0,33.0,8.0,False,False,4,3,4,434,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50132,CUST-1132,58.0,Female,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,391.0,Debit Card,2.0,132.0,1.0,True,True,2,1,4,214,Hibernating,2,Steady Regular Family Shoppers
+TXN-50133,CUST-1133,65.0,Male,Apparel,Cotton T-Shirt;Denim Jeans,759.0,Apple Pay,5.0,13.0,9.0,False,False,5,3,5,535,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50134,CUST-1134,20.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,417.0,Cash on Delivery,4.0,42.0,14.0,False,False,4,5,4,454,Champions,1,Deal Hunters & Tech Explorers
+TXN-50135,CUST-1135,27.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,430.0,Credit Card,3.0,45.0,1.0,True,False,4,1,4,414,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50136,CUST-1136,34.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,443.0,PayPal,5.0,48.0,3.0,False,False,4,2,4,424,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50137,CUST-1137,41.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,456.0,Debit Card,4.0,51.0,5.0,False,False,4,2,5,425,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50138,CUST-1138,48.0,Male,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,469.0,Apple Pay,3.0,54.0,7.0,True,False,4,3,5,435,Loyal Customers,2,Steady Regular Family Shoppers
+TXN-50139,CUST-1139,55.0,Other,Apparel,Silk Scarf;Cotton T-Shirt,32.0,Cash on Delivery,5.0,57.0,9.0,False,False,4,3,1,431,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50140,CUST-1140,62.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,920.0,Credit Card,5.0,20.0,16.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50141,CUST-1141,69.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,58.0,PayPal,3.0,63.0,13.0,True,False,3,4,1,341,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50142,CUST-1142,24.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,71.0,Debit Card,5.0,66.0,15.0,False,False,3,5,1,351,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50143,CUST-1143,31.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,84.0,Apple Pay,2.0,143.0,2.0,False,True,1,1,1,111,Hibernating,2,Steady Regular Family Shoppers
+TXN-50144,CUST-1144,38.0,Other,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,97.0,Cash on Delivery,3.0,72.0,4.0,True,False,3,2,1,321,Need Attention,2,Steady Regular Family Shoppers
+TXN-50145,CUST-1145,45.0,Female,Apparel,Leather Belt;Silk Scarf,110.0,Credit Card,5.0,75.0,8.0,False,False,3,3,1,331,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50146,CUST-1146,52.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,123.0,PayPal,4.0,78.0,8.0,False,False,3,3,1,331,Need Attention,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50147,CUST-1147,59.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,531.0,Debit Card,5.0,27.0,11.0,True,False,4,4,5,445,Champions,3,Disengaged / Churn Risk
+TXN-50148,CUST-1148,66.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,149.0,Apple Pay,5.0,84.0,12.0,False,False,3,4,2,342,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50149,CUST-1149,21.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,162.0,Cash on Delivery,4.0,87.0,14.0,False,False,3,5,2,352,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50150,CUST-1150,28.0,Female,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,175.0,Credit Card,3.0,90.0,1.0,True,False,3,1,2,312,Need Attention,2,Steady Regular Family Shoppers
+TXN-50151,CUST-1151,35.0,Male,Apparel,Winter Jacket;Leather Belt,188.0,PayPal,5.0,93.0,3.0,False,False,3,2,2,322,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50152,CUST-1152,42.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,201.0,Debit Card,4.0,96.0,5.0,False,False,3,2,2,322,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50153,CUST-1153,49.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,214.0,Apple Pay,3.0,99.0,7.0,True,False,3,3,2,332,Need Attention,2,Steady Regular Family Shoppers
+TXN-50154,CUST-1154,56.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,692.0,Cash on Delivery,2.0,154.0,1.0,False,True,1,1,5,115,Hibernating,2,Steady Regular Family Shoppers
+TXN-50155,CUST-1155,63.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,240.0,Credit Card,4.0,105.0,11.0,False,False,2,4,3,243,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50156,CUST-1156,18.0,Male,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,253.0,PayPal,3.0,108.0,13.0,True,False,2,5,3,253,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50157,CUST-1157,25.0,Female,Apparel,Sneakers;Winter Jacket,266.0,Debit Card,5.0,111.0,15.0,False,False,2,5,3,253,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50158,CUST-1158,32.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,279.0,Apple Pay,4.0,114.0,2.0,False,True,2,1,3,213,Hibernating,2,Steady Regular Family Shoppers
+TXN-50159,CUST-1159,39.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,292.0,Cash on Delivery,3.0,117.0,4.0,True,False,2,2,3,223,Hibernating,2,Steady Regular Family Shoppers
+TXN-50160,CUST-1160,46.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,305.0,Credit Card,5.0,120.0,6.0,False,False,2,2,3,223,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50161,CUST-1161,53.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,853.0,PayPal,5.0,16.0,13.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50162,CUST-1162,60.0,Female,Electronics,Smartphone Case;USB-C Cable;Portable Charger,331.0,Debit Card,3.0,126.0,10.0,True,False,2,4,3,243,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50163,CUST-1163,67.0,Male,Apparel,Hoodie Fleece;Sneakers,344.0,Apple Pay,5.0,129.0,12.0,False,False,2,4,4,244,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50164,CUST-1164,22.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,357.0,Cash on Delivery,4.0,132.0,14.0,False,False,2,5,4,254,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50165,CUST-1165,29.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,370.0,Credit Card,2.0,165.0,2.0,True,True,1,1,4,114,Hibernating,2,Steady Regular Family Shoppers
+TXN-50166,CUST-1166,36.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,383.0,PayPal,5.0,138.0,3.0,False,False,2,2,4,224,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50167,CUST-1167,43.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,396.0,Debit Card,4.0,141.0,5.0,False,False,2,2,4,224,Hibernating,2,Steady Regular Family Shoppers
+TXN-50168,CUST-1168,50.0,Male,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,464.0,Apple Pay,5.0,23.0,8.0,True,False,4,3,5,435,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50169,CUST-1169,57.0,Other,Apparel,Denim Jeans;Hoodie Fleece,422.0,Cash on Delivery,5.0,147.0,9.0,False,False,1,3,4,134,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50170,CUST-1170,64.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,435.0,Credit Card,4.0,150.0,11.0,False,False,1,4,4,144,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50171,CUST-1171,19.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,448.0,PayPal,3.0,153.0,13.0,True,False,1,5,5,155,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50172,CUST-1172,26.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,461.0,Debit Card,5.0,156.0,15.0,False,False,1,5,5,155,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50173,CUST-1173,33.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,474.0,Apple Pay,4.0,159.0,2.0,False,True,1,1,5,115,Hibernating,2,Steady Regular Family Shoppers
+TXN-50174,CUST-1174,40.0,Other,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,37.0,Cash on Delivery,3.0,162.0,4.0,True,False,1,2,1,121,Hibernating,2,Steady Regular Family Shoppers
+TXN-50175,CUST-1175,47.0,Female,Apparel,Cotton T-Shirt;Denim Jeans,625.0,Credit Card,5.0,5.0,15.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50176,CUST-1176,54.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,63.0,PayPal,2.0,176.0,1.0,False,True,1,1,1,111,Hibernating,2,Steady Regular Family Shoppers
+TXN-50177,CUST-1177,61.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,76.0,Debit Card,3.0,171.0,10.0,True,False,1,4,1,141,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50178,CUST-1178,68.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,89.0,Apple Pay,5.0,174.0,12.0,False,False,1,4,1,141,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50179,CUST-1179,23.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,102.0,Cash on Delivery,4.0,177.0,14.0,False,False,1,5,1,151,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50180,CUST-1180,30.0,Female,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,115.0,Credit Card,3.0,0.0,1.0,True,False,5,1,1,511,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50181,CUST-1181,37.0,Male,Apparel,Silk Scarf;Cotton T-Shirt,128.0,PayPal,5.0,3.0,3.0,False,False,5,2,2,522,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50182,CUST-1182,44.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,786.0,Debit Card,5.0,12.0,10.0,False,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-50183,CUST-1183,51.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,154.0,Apple Pay,3.0,9.0,7.0,True,False,5,3,2,532,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50184,CUST-1184,58.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,167.0,Cash on Delivery,5.0,12.0,9.0,False,False,5,3,2,532,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50185,CUST-1185,65.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,180.0,Credit Card,4.0,15.0,11.0,False,False,5,4,2,542,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50186,CUST-1186,20.0,Male,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,193.0,PayPal,3.0,18.0,13.0,True,False,5,5,2,552,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50187,CUST-1187,27.0,Female,Apparel,Leather Belt;Silk Scarf,206.0,Debit Card,2.0,127.0,2.0,False,True,2,1,2,212,Hibernating,2,Steady Regular Family Shoppers
+TXN-50188,CUST-1188,34.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,219.0,Apple Pay,4.0,24.0,2.0,False,False,4,1,2,412,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50189,CUST-1189,41.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,947.0,Cash on Delivery,5.0,19.0,17.0,True,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50190,CUST-1190,48.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,245.0,Credit Card,5.0,30.0,6.0,False,False,4,2,3,423,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50191,CUST-1191,55.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,258.0,PayPal,4.0,33.0,8.0,False,False,4,3,3,433,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50192,CUST-1192,62.0,Female,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,271.0,Debit Card,3.0,36.0,10.0,True,False,4,4,3,443,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50193,CUST-1193,69.0,Male,Apparel,Winter Jacket;Leather Belt,284.0,Apple Pay,5.0,39.0,12.0,False,False,4,4,3,443,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50194,CUST-1194,24.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,297.0,Cash on Delivery,4.0,42.0,14.0,False,False,4,5,3,453,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50195,CUST-1195,31.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,310.0,Credit Card,3.0,45.0,1.0,True,False,4,1,3,413,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50196,CUST-1196,38.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,558.0,PayPal,5.0,26.0,12.0,False,False,4,4,5,445,Champions,3,Disengaged / Churn Risk
+TXN-50197,CUST-1197,45.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,336.0,Debit Card,4.0,51.0,5.0,False,False,4,2,3,423,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50198,CUST-1198,52.0,Male,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,349.0,Apple Pay,2.0,138.0,1.0,True,True,2,1,4,214,Hibernating,2,Steady Regular Family Shoppers
+TXN-50199,CUST-1199,59.0,Other,Apparel,Sneakers;Winter Jacket,362.0,Cash on Delivery,5.0,57.0,9.0,False,False,4,3,4,434,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50200,CUST-1200,66.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,375.0,Credit Card,4.0,60.0,11.0,False,False,3,4,4,344,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50201,CUST-1201,21.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,388.0,PayPal,3.0,63.0,13.0,True,False,3,5,4,354,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50202,CUST-1202,28.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,401.0,Debit Card,5.0,66.0,15.0,False,False,3,5,4,354,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50203,CUST-1203,35.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,719.0,Apple Pay,5.0,8.0,19.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50204,CUST-1204,42.0,Other,Electronics,Smartphone Case;USB-C Cable;Portable Charger,427.0,Cash on Delivery,3.0,72.0,4.0,True,False,3,2,4,324,Need Attention,2,Steady Regular Family Shoppers
+TXN-50205,CUST-1205,49.0,Female,Apparel,Hoodie Fleece;Sneakers,440.0,Credit Card,5.0,75.0,6.0,False,False,3,3,4,334,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50206,CUST-1206,56.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,453.0,PayPal,4.0,78.0,8.0,False,False,3,3,5,335,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50207,CUST-1207,63.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,466.0,Debit Card,3.0,81.0,10.0,True,False,3,4,5,345,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50208,CUST-1208,18.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,29.0,Apple Pay,5.0,84.0,12.0,False,False,3,4,1,341,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50209,CUST-1209,25.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,42.0,Cash on Delivery,2.0,149.0,2.0,False,True,1,1,1,111,Hibernating,2,Steady Regular Family Shoppers
+TXN-50210,CUST-1210,32.0,Female,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,880.0,Credit Card,5.0,15.0,14.0,True,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50211,CUST-1211,39.0,Male,Apparel,Denim Jeans;Hoodie Fleece,68.0,PayPal,5.0,93.0,3.0,False,False,3,2,1,321,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50212,CUST-1212,46.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,81.0,Debit Card,4.0,96.0,5.0,False,False,3,2,1,321,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50213,CUST-1213,53.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,94.0,Apple Pay,3.0,99.0,7.0,True,False,3,3,1,331,Need Attention,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50214,CUST-1214,60.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,107.0,Cash on Delivery,5.0,102.0,9.0,False,False,2,3,1,231,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50215,CUST-1215,67.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,120.0,Credit Card,4.0,105.0,11.0,False,False,2,4,1,241,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50216,CUST-1216,22.0,Male,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,133.0,PayPal,3.0,108.0,13.0,True,False,2,5,2,252,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50217,CUST-1217,29.0,Female,Apparel,Cotton T-Shirt;Denim Jeans,491.0,Debit Card,5.0,22.0,9.0,False,False,5,3,5,535,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50218,CUST-1218,36.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,159.0,Apple Pay,4.0,114.0,2.0,False,True,2,1,2,212,Hibernating,2,Steady Regular Family Shoppers
+TXN-50219,CUST-1219,43.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,172.0,Cash on Delivery,3.0,117.0,4.0,True,False,2,2,2,222,Hibernating,2,Steady Regular Family Shoppers
+TXN-50220,CUST-1220,50.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,185.0,Credit Card,2.0,160.0,1.0,False,True,1,1,2,112,Hibernating,2,Steady Regular Family Shoppers
+TXN-50221,CUST-1221,57.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,198.0,PayPal,4.0,123.0,8.0,False,False,2,3,2,232,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50222,CUST-1222,64.0,Female,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,211.0,Debit Card,3.0,126.0,10.0,True,False,2,4,2,242,Promising / New,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50223,CUST-1223,19.0,Male,Apparel,Silk Scarf;Cotton T-Shirt,224.0,Apple Pay,5.0,129.0,12.0,False,False,2,4,2,242,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50224,CUST-1224,26.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,652.0,Cash on Delivery,5.0,29.0,16.0,False,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50225,CUST-1225,33.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,250.0,Credit Card,3.0,135.0,1.0,True,True,2,1,3,213,Hibernating,2,Steady Regular Family Shoppers
+TXN-50226,CUST-1226,40.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,263.0,PayPal,5.0,138.0,3.0,False,False,2,2,3,223,Hibernating,1,Deal Hunters & Tech Explorers
+TXN-50227,CUST-1227,47.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,276.0,Debit Card,4.0,141.0,5.0,False,False,2,2,3,223,Hibernating,2,Steady Regular Family Shoppers
+TXN-50228,CUST-1228,54.0,Male,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,289.0,Apple Pay,3.0,144.0,7.0,True,False,1,3,3,133,At Risk,2,Steady Regular Family Shoppers
+TXN-50229,CUST-1229,61.0,Other,Apparel,Leather Belt;Silk Scarf,302.0,Cash on Delivery,5.0,147.0,9.0,False,False,1,3,3,133,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50230,CUST-1230,68.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,315.0,Credit Card,4.0,150.0,11.0,False,False,1,4,3,143,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50231,CUST-1231,23.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,813.0,PayPal,2.0,171.0,2.0,True,True,1,1,5,115,Hibernating,2,Steady Regular Family Shoppers
+TXN-50232,CUST-1232,30.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,341.0,Debit Card,5.0,156.0,15.0,False,False,1,5,3,153,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50233,CUST-1233,37.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,354.0,Apple Pay,4.0,159.0,2.0,False,True,1,1,4,114,Hibernating,2,Steady Regular Family Shoppers
+TXN-50234,CUST-1234,44.0,Other,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,367.0,Cash on Delivery,3.0,162.0,4.0,True,False,1,2,4,124,Hibernating,2,Steady Regular Family Shoppers
+TXN-50235,CUST-1235,51.0,Female,Apparel,Winter Jacket;Leather Belt,380.0,Credit Card,5.0,165.0,6.0,False,False,1,3,4,134,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50236,CUST-1236,58.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,393.0,PayPal,4.0,168.0,8.0,False,False,1,3,4,134,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50237,CUST-1237,65.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,406.0,Debit Card,3.0,171.0,10.0,True,False,1,4,4,144,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50238,CUST-1238,20.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,974.0,Apple Pay,5.0,18.0,18.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50239,CUST-1239,27.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,432.0,Cash on Delivery,4.0,177.0,14.0,False,False,1,5,4,154,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50240,CUST-1240,34.0,Female,Electronics,USB-C Cable;Portable Charger;Mechanical Keyboard,445.0,Credit Card,3.0,0.0,1.0,True,False,5,1,4,514,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50241,CUST-1241,41.0,Male,Apparel,Sneakers;Winter Jacket,458.0,PayPal,5.0,3.0,3.0,False,False,5,2,5,525,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50242,CUST-1242,48.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,471.0,Debit Card,2.0,122.0,1.0,False,True,2,1,5,215,Hibernating,2,Steady Regular Family Shoppers
+TXN-50243,CUST-1243,55.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,34.0,Apple Pay,3.0,9.0,7.0,True,False,5,3,1,531,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50244,CUST-1244,62.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,47.0,Cash on Delivery,5.0,12.0,9.0,False,False,5,3,1,531,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50245,CUST-1245,69.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,585.0,Credit Card,5.0,25.0,13.0,False,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50246,CUST-1246,24.0,Male,Electronics,Smartphone Case;USB-C Cable;Portable Charger,73.0,PayPal,3.0,18.0,13.0,True,False,5,5,1,551,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50247,CUST-1247,31.0,Female,Apparel,Hoodie Fleece;Sneakers,86.0,Debit Card,5.0,21.0,15.0,False,False,5,5,1,551,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50248,CUST-1248,38.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,99.0,Apple Pay,4.0,24.0,2.0,False,False,4,1,1,411,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50249,CUST-1249,45.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,112.0,Cash on Delivery,3.0,27.0,4.0,True,False,4,2,1,421,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50250,CUST-1250,52.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,125.0,Credit Card,5.0,30.0,6.0,False,False,4,3,1,431,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50251,CUST-1251,59.0,Male,Books & Stationery,Gel Pen 6-Pack;Productivity Planner,138.0,PayPal,4.0,33.0,8.0,False,False,4,3,2,432,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50252,CUST-1252,66.0,Female,Electronics,Wireless Headphones;Smartphone Case;USB-C Cable,746.0,Debit Card,5.0,7.0,8.0,True,False,5,3,5,535,Loyal Customers,3,Disengaged / Churn Risk
+TXN-50253,CUST-1253,21.0,Male,Apparel,Denim Jeans;Hoodie Fleece,164.0,Apple Pay,2.0,133.0,2.0,False,True,2,1,2,212,Hibernating,2,Steady Regular Family Shoppers
+TXN-50254,CUST-1254,28.0,Other,Home & Living,Aromatherapy Diffuser;Throw Pillow,177.0,Cash on Delivery,4.0,42.0,14.0,False,False,4,5,2,452,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50255,CUST-1255,35.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,190.0,Credit Card,3.0,45.0,1.0,True,False,4,1,2,412,Potential Loyalists,2,Steady Regular Family Shoppers
+TXN-50256,CUST-1256,42.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,203.0,PayPal,5.0,48.0,3.0,False,False,4,2,2,422,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50257,CUST-1257,49.0,Female,Books & Stationery,Productivity Planner;Data Science Handbook,216.0,Debit Card,4.0,51.0,5.0,False,False,4,2,2,422,Potential Loyalists,1,Deal Hunters & Tech Explorers
+TXN-50258,CUST-1258,56.0,Male,Electronics,Bluetooth Speaker;Wireless Headphones;Smartphone Case,229.0,Apple Pay,3.0,54.0,7.0,True,False,4,3,2,432,Potential Loyalists,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50259,CUST-1259,63.0,Other,Apparel,Cotton T-Shirt;Denim Jeans,907.0,Cash on Delivery,5.0,14.0,15.0,False,False,5,5,5,555,Champions,3,Disengaged / Churn Risk
+TXN-50260,CUST-1260,18.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,255.0,Credit Card,4.0,60.0,11.0,False,False,3,4,3,343,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50261,CUST-1261,25.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,268.0,PayPal,3.0,63.0,13.0,True,False,3,5,3,353,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50262,CUST-1262,32.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,281.0,Debit Card,5.0,66.0,15.0,False,False,3,5,3,353,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50263,CUST-1263,39.0,Male,Books & Stationery,Data Science Handbook;Desk Organizer,294.0,Apple Pay,4.0,69.0,2.0,False,False,3,1,3,313,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50264,CUST-1264,46.0,Other,Electronics,Smartwatch;Bluetooth Speaker;Wireless Headphones;USB-C Cable,307.0,Cash on Delivery,2.0,144.0,1.0,True,True,1,1,3,113,Hibernating,2,Steady Regular Family Shoppers
+TXN-50265,CUST-1265,53.0,Female,Apparel,Silk Scarf;Cotton T-Shirt,320.0,Credit Card,5.0,75.0,6.0,False,False,3,3,3,333,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50266,CUST-1266,60.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,518.0,PayPal,5.0,21.0,10.0,False,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-50267,CUST-1267,67.0,Female,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,346.0,Debit Card,3.0,81.0,10.0,True,False,3,4,4,344,Loyal Customers,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50268,CUST-1268,22.0,Male,Sports & Outdoors,Running Shoes;Sports Backpack,359.0,Apple Pay,5.0,84.0,12.0,False,False,3,4,4,344,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50269,CUST-1269,29.0,Other,Books & Stationery,Desk Organizer;Hardcover Journal,372.0,Cash on Delivery,4.0,87.0,14.0,False,False,3,5,4,354,Loyal Customers,1,Deal Hunters & Tech Explorers
+TXN-50270,CUST-1270,36.0,Female,Electronics,Mechanical Keyboard;Smartwatch;Bluetooth Speaker,385.0,Credit Card,3.0,90.0,1.0,True,False,3,1,4,314,Need Attention,2,Steady Regular Family Shoppers
+TXN-50271,CUST-1271,43.0,Male,Apparel,Leather Belt;Silk Scarf,398.0,PayPal,5.0,93.0,3.0,False,False,3,2,4,324,Need Attention,1,Deal Hunters & Tech Explorers
+TXN-50272,CUST-1272,50.0,Female,Home & Living,Aromatherapy Diffuser;Throw Pillow,411.0,Debit Card,4.0,96.0,5.0,False,False,3,2,4,324,Need Attention,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50273,CUST-1273,57.0,Male,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,679.0,Apple Pay,5.0,28.0,17.0,True,False,4,5,5,455,Champions,3,Disengaged / Churn Risk
+TXN-50274,CUST-1274,64.0,Other,Sports & Outdoors,Running Shoes;Sports Backpack,437.0,Cash on Delivery,5.0,102.0,9.0,False,False,2,3,4,234,At Risk,0,VIP Power Buyers (High Spend & Frequency)
+TXN-50275,CUST-1275,19.0,Female,Books & Stationery,Hardcover Journal;Gel Pen 6-Pack,450.0,Credit Card,2.0,155.0,2.0,False,True,1,1,5,115,Hibernating,2,Steady Regular Family Shoppers
+TXN-50276,CUST-1276,26.0,Male,Electronics,Portable Charger;Mechanical Keyboard;Smartwatch,463.0,PayPal,3.0,108.0,13.0,True,False,2,5,5,255,At Risk,1,Deal Hunters & Tech Explorers
+TXN-50277,CUST-1277,33.0,Female,Apparel,Winter Jacket;Leather Belt,26.0,Debit Card,5.0,111.0,15.0,False,False,2,5,1,251,Promising / New,1,Deal Hunters & Tech Explorers
+TXN-50278,CUST-1278,40.0,Male,Home & Living,Aromatherapy Diffuser;Throw Pillow,39.0,Apple Pay,4.0,114.0,2.0,False,True,2,1,1,211,Hibernating,2,Steady Regular Family Shoppers
+TXN-50279,CUST-1279,47.0,Other,Beauty & Care,Vitamin C Serum;Lip Balm Balm;Shampoo Herbal;SPF 50 Sunscreen,52.0,Cash on Delivery,3.0,117.0,4.0,True,False,2,2,1,221,Hibernating,2,Steady Regular Family Shoppers
+TXN-50280,CUST-1280,54.0,Female,Sports & Outdoors,Running Shoes;Sports Backpack,840.0,Credit Card,5.0,10.0,12.0,False,False,5,4,5,545,Champions,3,Disengaged / Churn Risk
+TXN-99994,DUPLICATE_TXN_SEED,34.0,Female,Apparel,Cotton T-Shirt,29.99,Credit Card,5.0,12.0,4.0,False,False,5,2,1,521,Potential Loyalists,1,Deal Hunters & Tech Explorers
